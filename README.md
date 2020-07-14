@@ -36,7 +36,7 @@ export default () => ({
     },
     backEnd: {
       java: ["spring", "quarkus WIP"],
-      js-and-ts: ["node", "express"],
+      "js-and-ts": ["node", "express"],
       elixir: ["phoenix WIP"],
       python: ["django", "flask"],
       misc: ["bash", "systemd", "xubuntu"]
