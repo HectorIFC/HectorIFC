@@ -55,3 +55,9 @@ export default () => ({
 [Instagram 📸](https://www.instagram.com/hectorwcardoso/)
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hectorwilliancardoso@gmail.com)](mailto:hectorwilliancardoso@gmail.com)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HectorIFC" alt="HectorIFC" /> </p>
+
+[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HectorIFC&show_icons=true)](https://github.com/HectorIFC)
+
+<h3> 🤝🏻 </h3>
