@@ -23,7 +23,6 @@ _____________|','   ///_/-------------/   |
 
 ```js
 export default () => ({
-  pronouns: "He" | "Him",
   blogUrl: "http://blog.hectorcardoso.com/",
   askMeAbout: [
     "developer", "tech", "music",
